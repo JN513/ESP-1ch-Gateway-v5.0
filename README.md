@@ -1,4 +1,8 @@
-# Single Channel LoRaWAN Gateway
+# Single Channel LoRa Gateway
+
+GATEWAYS BASED ON THIS CODE ARE NOT LoRaWAN COMPATIBLE AND SHOULD NOT BE USED ON A LORAWAN NETWORK.
+
+*** NEVER CONNECT THEM TO THE THINGS NETWORK ***
 
 Version 5.0.1, November, 2017  
 Author: M. Westenberg (mw12554@hotmail.com)  
